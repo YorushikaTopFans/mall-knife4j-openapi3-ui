@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com9n1m.mall</groupId>
+  <groupId>io.github.yorushikatopfans</groupId>
   <artifactId>mall-knife4j-openapi3-ui</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
